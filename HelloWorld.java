@@ -2,7 +2,7 @@
 
 
  public class HelloWorld {
-     public static void main(string[] args) {
-         system.out.println("Hello Jenkins, send me to production!");
+     public static void main(String[] args) {
+         System.out.println("Hello Jenkins, send me to production!");
 }
 }
